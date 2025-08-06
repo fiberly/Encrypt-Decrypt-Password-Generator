@@ -1,4 +1,4 @@
-# Encrypt-Decrypt-Password-Generator
+# Encrypt text/file contents and password generator
 
 FUNCTIONALITY:
 
