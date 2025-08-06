@@ -2,8 +2,7 @@
 
 FUNCTIONALITY:
 
-Encrypt and decrypt input text
-encrypt .txt file contents and decrypt file .txt contents
-
-Generate secure passwords
+1. Encrypt and decrypt input text
+2. Encrypt .txt file contents and decrypt file .txt contents
+3. Generate secure passwords
 
